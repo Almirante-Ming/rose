@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  equipamento: one
+  descricao_problema: MyString
+  status: MyString
+  data_abertura: 2024-11-13
+
+two:
+  equipamento: two
+  descricao_problema: MyString
+  status: MyString
+  data_abertura: 2024-11-13

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ordem_servico: one
+  acao: MyText
+  data: 2024-11-13 13:47:51
+
+two:
+  ordem_servico: two
+  acao: MyText
+  data: 2024-11-13 13:47:51
